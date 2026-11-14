@@ -1,0 +1,9 @@
+source_line,reason,order_id,buyer_id,category,order_date,price_yen,status
+2402,duplicate_order_id,O000001,B0115,Books,2026-03-12,6500,completed
+2403,duplicate_order_id,O002400,B0489,Electronics,2026-06-26,6400,completed
+2404,missing_required_value,BAD1,,Books,2026-03-12,6500,completed
+2405,invalid_date,BAD2,B0115,Books,2026-02-30,6500,completed
+2406,invalid_price,BAD3,B0115,Books,2026-03-12,-500,completed
+2407,invalid_price,BAD4,B0115,Books,2026-03-12,900.50,completed
+2408,invalid_status,BAD5,B0115,Books,2026-03-12,6500,pending
+2409,missing_required_value,BAD6,B0115,,2026-03-12,6500,completed

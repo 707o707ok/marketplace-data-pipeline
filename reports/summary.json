@@ -1,0 +1,19 @@
+{
+  "data_type": "synthetic",
+  "quality": {
+    "source_rows": 2408,
+    "accepted_rows": 2400,
+    "rejected_rows": 8,
+    "rejection_reasons": {
+      "duplicate_order_id": 2,
+      "invalid_date": 1,
+      "invalid_price": 2,
+      "invalid_status": 1,
+      "missing_required_value": 2
+    }
+  },
+  "completed_value_yen": 20957100,
+  "completed_buyers": 577,
+  "repeat_buyers": 509,
+  "repeat_buyer_pct_within_observation_window": 88.21
+}

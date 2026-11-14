@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 390" role="img" aria-labelledby="title desc">
+<title id="title">Monthly completed merchandise value</title>
+<desc id="desc">Synthetic marketplace data. Completed orders only; cancelled and fully refunded orders excluded. Bars start at zero.</desc>
+<rect width="900" height="390" fill="#f5f7fb"/>
+<g font-family="Arial, sans-serif" fill="#18273f">
+<text x="40" y="35" font-size="23" font-weight="bold">Marketplace activity</text>
+<text x="40" y="60" font-size="13">SYNTHETIC DATA · completed merchandise value · JPY · not revenue</text>
+<line x1="70" y1="305" x2="840" y2="305" stroke="#dce3ed"/>
+<text x="60" y="309" text-anchor="end" font-size="11">0.0m</text>
+<line x1="70" y1="200.0" x2="840" y2="200.0" stroke="#dce3ed"/>
+<text x="60" y="204.0" text-anchor="end" font-size="11">2.0m</text>
+<line x1="70" y1="95" x2="840" y2="95" stroke="#dce3ed"/>
+<text x="60" y="99" text-anchor="end" font-size="11">3.9m</text>
+<rect x="94.66666666666667" y="123.00427872860635" width="74.0" height="181.99572127139365" rx="4" fill="#285ad6"/>
+<text x="131.66666666666669" y="114.00427872860635" text-anchor="middle" font-size="12">3,402,800</text>
+<text x="131.66666666666669" y="330" text-anchor="middle" font-size="12">2026-01</text>
+<rect x="217.99999999999997" y="141.9002139364303" width="74.0" height="163.0997860635697" rx="4" fill="#285ad6"/>
+<text x="254.99999999999997" y="132.9002139364303" text-anchor="middle" font-size="12">3,049,500</text>
+<text x="254.99999999999997" y="330" text-anchor="middle" font-size="12">2026-02</text>
+<rect x="341.3333333333333" y="119.39410146699265" width="74.0" height="185.60589853300735" rx="4" fill="#285ad6"/>
+<text x="378.3333333333333" y="110.39410146699265" text-anchor="middle" font-size="12">3,470,300</text>
+<text x="378.3333333333333" y="330" text-anchor="middle" font-size="12">2026-03</text>
+<rect x="464.6666666666667" y="119.48502444987776" width="74.0" height="185.51497555012224" rx="4" fill="#285ad6"/>
+<text x="501.6666666666667" y="110.48502444987776" text-anchor="middle" font-size="12">3,468,600</text>
+<text x="501.6666666666667" y="330" text-anchor="middle" font-size="12">2026-04</text>
+<rect x="587.9999999999999" y="95.0" width="74.0" height="210.0" rx="4" fill="#285ad6"/>
+<text x="624.9999999999999" y="86.0" text-anchor="middle" font-size="12">3,926,400</text>
+<text x="624.9999999999999" y="330" text-anchor="middle" font-size="12">2026-05</text>
+<rect x="711.3333333333333" y="110.34459046454768" width="74.0" height="194.65540953545232" rx="4" fill="#285ad6"/>
+<text x="748.3333333333333" y="101.34459046454768" text-anchor="middle" font-size="12">3,639,500</text>
+<text x="748.3333333333333" y="330" text-anchor="middle" font-size="12">2026-06</text>
+<text x="40" y="368" font-size="12">Illustrative output from a local Python + SQLite portfolio pipeline.</text>
+</g></svg>
