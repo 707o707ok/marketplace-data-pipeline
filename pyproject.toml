@@ -1,0 +1,6 @@
+[project]
+name = "marketplace-data-pipeline"
+version = "0.1.0"
+description = "A small, reproducible Python and SQL pipeline for synthetic marketplace orders"
+requires-python = ">=3.10"
+dependencies = []

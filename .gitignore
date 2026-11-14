@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+data/marketplace.sqlite
+data/marketplace.sqlite-*
+.DS_Store
